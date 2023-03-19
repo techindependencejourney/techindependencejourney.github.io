@@ -2,6 +2,14 @@ div.a {
     text-align: center;
 }
 
+div.b {
+
+        margin-left: 35%;
+        margin-right: 35%;
+
+}
+
+
 .mywebsite {
     color: blue;
     }
@@ -11,6 +19,6 @@ nav {
 }
 
 body {
-    font: "Roboto", sans-serif;
+  font-family: Georgia, serif;
 
 }
