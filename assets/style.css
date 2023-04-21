@@ -3,10 +3,9 @@ div.a {
 }
 
 div.b {
-
-        margin-left: 35%;
-        margin-right: 35%;
-
+margin-left: 35%;
+margin-right: 35%;
+text-align: left;
 }
 
 
@@ -20,5 +19,5 @@ nav {
 
 body {
   font-family: Georgia, serif;
-
+  background-color: lightgray;
 }
