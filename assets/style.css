@@ -22,3 +22,22 @@ body {
   font-family: Georgia, serif;
 
 }
+
+div.c {
+margin-left: 40%;
+margin-right: 10%;
+text-align: right; 
+
+
+
+}
+
+div.d {
+margin-left:10%;
+margin-right: 40%;
+text-align: left;
+
+
+
+
+}
