@@ -3,10 +3,9 @@ div.a {
 }
 
 div.b {
-
-        margin-left: 35%;
-        margin-right: 35%;
-
+margin-left: 35%;
+margin-right: 35%;
+text-align: left;
 }
 
 
@@ -40,4 +39,5 @@ text-align: left;
 
 
 
+  background-color: lightgray;
 }
