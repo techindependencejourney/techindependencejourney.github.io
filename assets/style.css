@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 div.a {
-    text-align: center;
+  text-align: center;
 }
 
 div.b {
@@ -14,15 +14,15 @@ text-align: left;
 
 
 .mywebsite {
-    color: blue;
-    }
+  color: blue;
+  }
 
 nav {
- text-align: center;
+text-align: center;
 }
 
 body {
-  font-family: Georgia, serif;
+font-family: Georgia, serif;
 
 }
 
@@ -43,7 +43,7 @@ text-align: left;
 
 
 
-  background-color: lightgray;
+background-color: lightgray;
 }
 
 
